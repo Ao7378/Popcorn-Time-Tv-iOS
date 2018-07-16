@@ -33,7 +33,7 @@ Once downloaded, follow our [Installing Guide](https://github.com/PopcornTimeTV/
 
 ## Know what you're doing?
 
-This project uses  [CocoaPods](http://cocoapods.org/). Build instructions: before downloading install [Node.js](https://nodejs.org/en/download/)
+Build instructions: download and install [Node.js](https://nodejs.org/en/download/). This project uses  [CocoaPods](http://cocoapods.org/). 
 ``` bash
 $ git clone https://github.com/Ao7378/Popcorn-Time-iOS.git
 $ cd Popcorn-Time-iOS
